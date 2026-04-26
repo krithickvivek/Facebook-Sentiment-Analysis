@@ -33,6 +33,22 @@ It contains:
 
 * sentiment_analysis.ipynb
 
+## 📊 Sample Dataset
+
+| user         | comment                          | date       |
+| ------------ | -------------------------------- | ---------- |
+| Arun Kumar   | This product is amazing!         | 2026-01-01 |
+| Priya Sharma | It is okay, nothing special      | 2026-01-02 |
+| Rahul Verma  | Worst experience ever            | 2026-01-03 |
+| Sneha Iyer   | Average performance              | 2026-01-04 |
+| Vikram Singh | I love it                        | 2026-01-05 |
+| Anjali Mehta | Not bad, not great               | 2026-01-06 |
+| Karthik Raj  | Could be better                  | 2026-01-07 |
+| Neha Gupta   | Absolutely fantastic!            | 2026-01-08 |
+| Rohan Das    | It works fine                    | 2026-01-09 |
+| Divya Nair   | Service was neither good nor bad | 2026-01-10 |
+
+
 ## 📈 Output
 
 Neutral comments such as:
